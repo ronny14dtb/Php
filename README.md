@@ -1,6 +1,6 @@
 # Php
 
-1-Descargar el repositorio 
+1-Descargar el repositorio rar y extraer 
 2-descargar el Xampp
 3-instalar el Xampp
 4-pegar el repositorio en la ruta C:\xampp\htdocs
